@@ -1,4 +1,4 @@
-### Olá, me chamo Bryan Lima. Bem-vindo ao meu github.
+### Olá, me chamo Bryan Lima.
 
 <div>
   <a href="https://github.com/bryanlimac">
